@@ -1,2 +1,2 @@
 helloworld
-master & dev
+master and dev
